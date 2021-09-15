@@ -1,2 +1,5 @@
-# funkin-but-its-splatoon
-Splatoon mod :)
+### Splatoon Funkin Mod
+
+
+
+
